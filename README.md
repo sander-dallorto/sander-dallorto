@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
 <h3 align="center">A passionate Data Scientist from Brazil</h3>
 
-- 🌱 I’m currently learning **NLP and GANs**
+- 🌱 I’m currently learning back-end development
 
 - 📫 How to reach me **sanderrodriguesr75@gmail.com**
 
